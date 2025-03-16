@@ -1,0 +1,19 @@
+.Post-details{
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+
+}
+.post-details-image-erapper{
+    height: 400px;
+    margin-bottom: 30px;
+}
+.post-datils-image{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+
+}
+.update-post-laple{
+    
+}
